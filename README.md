@@ -12,13 +12,13 @@ This project is part of the **42 School** curriculum. The goal of `ft_printf` is
 - [Usage](#-usage)
 - [Examples](#-examples)
 - [Format Specifiers](#-format-specifiers)
-- - Resources
+- [Resources](#-resources)
 - [42 School Requirements](#-42-school-requirements)
 
 ---
 
 ## ✅ Status
-**Finished**: *2024-11-27*  
+**Finished**: *2024-1-27*  
 **Grade**: *125/100*
 
 ---
@@ -171,7 +171,8 @@ Pointer:   0x7ffeeb39a4b4 | Hex: 0XFF
 | `%#10x`     | 255         | `     0xff`     |
 
 ---
-Resources
+
+## 📚 Resources
 https://www.cprogramming.com/tutorial/printf-format-strings.html
 https://blog.aaronballman.com/2012/06/how-variable-argument-lists-work-in-c/
 https://stackoverflow.com/questions/38023473/include-first-argument-in-va-list-object
@@ -181,9 +182,6 @@ http://underpop.online.fr/j/java/help/using-flags-in-the-printf-format-string-fo
 https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/va-arg-va-copy-va-end-va-start?view=msvc-170
 https://velog.io/@ljiwoo59/ftprintf
 https://www.lix.polytechnique.fr/~liberti/public/computing/prog/c/C/FUNCTIONS/format.html
----
-```
-
 ---
 
 ## 📜 42 School Requirements
