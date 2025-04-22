@@ -18,7 +18,7 @@ This project is part of the **42 School** curriculum. The goal of `ft_printf` is
 ---
 
 ## ✅ Status
-**Finished**: *2024-1-27*  
+**Finished**: *2024-11-27*  
 **Grade**: *125/100*
 
 ---
